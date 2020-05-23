@@ -1,9 +1,9 @@
 {
-	"ImportPath": "github.com/hpcloud/tail",
+	"ImportPath": "github.com/damon-kwok/tail",
 	"GoVersion": "go1.5.1",
 	"Deps": [
 		{
-			"ImportPath": "gopkg.in/fsnotify.v1",
+			"ImportPath": "github.com/fsnotify.fsnotify",
 			"Comment": "v1.2.1",
 			"Rev": "7be54206639f256967dd82fa767397ba5f8f48f5"
 		},
